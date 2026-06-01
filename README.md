@@ -9,26 +9,32 @@ Everything here runs **in the browser** (some early lessons use `alert` /
 
 ## How to run a lesson
 
-1. Open `index.html` and change the `<script src="...">` to the lesson you want.
-2. Open `index.html` in a browser.
-3. View the output in the **dev-tools Console** (F12 → Console).
+**Easiest — run it live in your browser (nothing to install):**
+Click a **▶ Run** link below. The code runs in your own browser and the output
+appears on the page (`prompt` / `alert` show as popups). Powered by
+[GitHub Pages](https://dixitpateldev.github.io/The-Modern-JavaScript/runner.html).
 
-Self-contained HTML lessons (like *Hello, world!*) have their own `.html`
-file — just open that file directly.
+**No-setup alternative:** copy any snippet, open your browser DevTools (F12) →
+**Console**, paste, and press Enter.
+
+**If you cloned the repo:** open `runner.html` in a browser and pick a lesson,
+or open a self-contained lesson HTML (like *Hello, world!*) directly.
 
 ## Contents
 
+> ▶ Run links execute the lesson live via GitHub Pages.
+
 ### 1. JavaScript Fundamentals
-| Lesson | File | Source |
-|---|---|---|
-| Hello, world! (script tags, external scripts) | [`01-fundamentals/01-hello-world/hello-world.html`](01-fundamentals/01-hello-world/hello-world.html) | [link](https://javascript.info/hello-world) |
-| Variables & Data Types | [`01-fundamentals/02-variables.js`](01-fundamentals/02-variables.js) | [link](https://javascript.info/variables) |
-| Basic operators, maths | [`01-fundamentals/03-operators.js`](01-fundamentals/03-operators.js) | [link](https://javascript.info/operators) |
+| Lesson | File | Run | Source |
+|---|---|---|---|
+| Hello, world! (script tags, external scripts) | [`01-fundamentals/01-hello-world/hello-world.html`](01-fundamentals/01-hello-world/hello-world.html) | [▶ Run](https://dixitpateldev.github.io/The-Modern-JavaScript/01-fundamentals/01-hello-world/hello-world.html) | [link](https://javascript.info/hello-world) |
+| Variables & Data Types | [`01-fundamentals/02-variables.js`](01-fundamentals/02-variables.js) | [▶ Run](https://dixitpateldev.github.io/The-Modern-JavaScript/runner.html?file=01-fundamentals/02-variables.js) | [link](https://javascript.info/variables) |
+| Basic operators, maths | [`01-fundamentals/03-operators.js`](01-fundamentals/03-operators.js) | [▶ Run](https://dixitpateldev.github.io/The-Modern-JavaScript/runner.html?file=01-fundamentals/03-operators.js) | [link](https://javascript.info/operators) |
 
 ### 2. Objects: the basics
-| Lesson | File | Source |
-|---|---|---|
-| Objects — the basics | [`02-objects-the-basics/01-objects.js`](02-objects-the-basics/01-objects.js) | [link](https://javascript.info/object) |
+| Lesson | File | Run | Source |
+|---|---|---|---|
+| Objects — the basics | [`02-objects-the-basics/01-objects.js`](02-objects-the-basics/01-objects.js) | [▶ Run](https://dixitpateldev.github.io/The-Modern-JavaScript/runner.html?file=02-objects-the-basics/01-objects.js) | [link](https://javascript.info/object) |
 
 ---
 
