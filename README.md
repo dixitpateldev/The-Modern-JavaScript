@@ -38,8 +38,6 @@ or open a self-contained lesson HTML (like *Hello, world!*) directly.
 
 ---
 
-`_playground/` holds experiments that are **not** part of the course.
-
 ## Conventions
 
 - One file per javascript.info lesson; folders mirror the site's chapters.
