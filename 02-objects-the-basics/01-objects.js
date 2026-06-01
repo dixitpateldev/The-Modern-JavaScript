@@ -1,13 +1,6 @@
-//Legacy term to define a variable is "var" but now we use "let" and "const" to define a variable.
-//let x = 10; we can't use "let" to declare a variable more than once in the same scope. It will throw an error.
-
-let fullName = "Dixit Patel"; //string
-let age = 33; //number
-let x = null; //object
-let y = undefined; //undefined
-let z = BigInt (123); //bigint
-let isFollow = true; //boolean
-
+// Topic: Objects — the basics
+// Source: https://javascript.info/object
+// ────────────────────────────────────────────────────────────────────────────
 
 /*Object is a collection of key-value pairs.
 It is a data structure that can store multiple values in a single variable.

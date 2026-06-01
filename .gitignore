@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Node (for later, if/when we add a Node run path)
+node_modules/
